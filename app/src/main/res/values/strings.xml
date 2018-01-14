@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Immer Sparen</string>
+    <string name="produto_A">Produto A</string>
+    <string name="produto_B">Produto B</string>
+    <string name="kilo_litro">Kg / L</string>
+    <string name="grama_ml">g / mL</string>
+    <string name="por_kilo">por Kilo / Litro</string>
+    <string name="calcular">Calcular</string>
+    <string name="apagar">Apagar Preços</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="desconto">Desconto %</string>
+    <string name="preco">Preço</string>
+
+</resources>
